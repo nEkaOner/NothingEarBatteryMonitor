@@ -1,4 +1,5 @@
 # Script PowerShell pour créer un lanceur invisible
+# Test de GiHub desktop
 $monitorScript = @'
 # Ajouter les assemblies nécessaires
 Add-Type -AssemblyName System.Windows.Forms
